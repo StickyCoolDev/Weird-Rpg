@@ -49,4 +49,3 @@ func pick_direction():
 		state_machine.travel("idle")
 	else:
 		state_machine.travel("walk")
-
