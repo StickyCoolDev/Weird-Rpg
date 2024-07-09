@@ -1,6 +1,6 @@
 extends Node
 
-# signals
+#signals
 signal quest_completed(quest:String)
 signal new_quest_added(quest:String)
 
