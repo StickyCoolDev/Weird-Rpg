@@ -1,8 +1,8 @@
 extends Node
 
 #signals
-signal quest_completed(quest:String)
-signal new_quest_added(quest:String)
+signal quest_completed(quest:String)  #runs when a quest is completed
+signal new_quest_added(quest:String)  #runs when a new quest is activated
 
 var quests:Dictionary = {
 	"collect_sticks":{
