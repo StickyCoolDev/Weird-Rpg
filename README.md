@@ -2,9 +2,7 @@
 
 a game where every top down games mechanics are mixed into one. it makes for amazing and weird game play.
 <hr>
-people who helped in the game:-                       
+
+<h2>people who helped in the game:-<h2>                       
 
 <h3>[1]ATU</h3>
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Image description">
