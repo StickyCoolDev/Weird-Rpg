@@ -5,5 +5,6 @@ makes for amazing and weird game play.</p>
 
 
 
-<h2>people who helped in the game:-</h2>          
-`createapp.dev`
+<h2>people who helped in the game:-</h2>
+
+`createv`
